@@ -16,7 +16,7 @@ using namespace std;
 
 int main(){
     int size = 5; // size initialization for an array.
-    int marks[size] =  {99, 100, 54, 36, 88}; // the size of any array is from 0 to size -1.
+    int marks[] =  {99, 100, 54, 36, 88}; // the size of any array is from 0 to size -1.
     // we dont have to specify arrays range if we already assign it with list.
     double price[] = {98, 99, 105.67, 30.00};
 
